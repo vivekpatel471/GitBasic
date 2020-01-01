@@ -14,7 +14,7 @@ public class DBConnection {
     public static Connection getConnection(){
 		
     	Connection conn = null;
-    	
+    	System.out.println("Git hub Project");
     	try {
 			Class.forName(driverClass);
 			
