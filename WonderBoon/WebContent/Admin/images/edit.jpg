@@ -1,0 +1,24 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>edit button</title>
+ <defs>
+  <linearGradient id="linearGradient3860">
+   <stop stop-color="#ffffff" id="stop3862" offset="0"/>
+   <stop stop-color="#fffffe" stop-opacity="0" id="stop3864" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="-0.068159" x2="0.476199" y1="1.02073" x1="0.476199" id="linearGradient3866" xlink:href="#linearGradient3860"/>
+  <linearGradient y2="1.003171" x2="0.462347" y1="-0.033358" x1="0.464398" id="linearGradient3872" xlink:href="#linearGradient3860"/>
+ </defs>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <use transform="matrix(0.9649315288532972,0,0,0.981416,21.702401170503176,4.00929) " fill="#2c26d6" stroke="#e56317" height="1" width="1" id="use3846" xlink:href="#rect3069" y="2.410053" x="-9.990212" stroke-width="0"/>
+  <g display="none" id="layer1">
+   <rect ry="74.892807" y="0.500005" x="0.5" height="322.85715" width="625.71429" id="rect3069"/>
+  </g>
+  <g id="svg_2">
+   <path opacity="0.5" fill="url(#linearGradient3872)" stroke-width="0.983728" id="path3870" d="m81.825897,9.19797c-39.018997,0 -70.458597,33.48103 -70.458597,75.077031l0,6.639999c29.140001,-7.400002 63.290598,-13.985001 95.198702,-14.957001c77.430992,-2.359001 119.458,25.947998 194.676003,21.23101c75.217987,-4.71701 108.390991,-42.476009 174.76001,-44.834011c61.231995,-2.175999 96.088989,43.845997 139.34198,54.684002l0,-22.764c0,-41.596001 -31.404968,-75.077031 -70.424011,-75.077031l-463.094086,0l0,0l0,0l0,0l0,0l0,0z"/>
+   <path opacity="0.5" fill="url(#linearGradient3866)" stroke-width="0.905445" id="use3852" d="m487.137207,277.287048c-52.031006,0.27655 -128.394196,9.907532 -188.138092,15.641235c-42.076447,4.038147 -97.809296,0.088196 -109.093414,-4.36908c-30.659668,-12.110352 -78.81778,-14.110046 -137.94714,-4.018066c-3.582031,0.611328 -24.68548,3.240723 -28.22414,3.891602c12.665279,15.925842 33.13908,26.225159 56.29937,26.225159l458.42318,0c24.575806,0 46.092041,-11.612366 58.501221,-29.22229c-22.682007,-1.548645 -50.388062,-3.766968 -80.7229,-6.962158c-8.383453,-0.883057 -18.20813,-1.244263 -29.098083,-1.186401z"/>
+  </g>
+  <text font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="100" id="svg_1" y="190.43169" x="254.683447" stroke-width="0" fill="#ffffff" transform="matrix(1.82479,0,0,2.09265,-172.751,-176.926) ">EDIT</text>
+ </g>
+</svg>
